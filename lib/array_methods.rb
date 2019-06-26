@@ -5,7 +5,7 @@
   #     end
   # end
   # nil
-  return array.find(value to find)
+  return array.find(value_to_find)
 end
 
 def find_max_value(array)
